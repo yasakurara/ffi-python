@@ -1,5 +1,7 @@
 # How to use ffi in Python
-How to use Foreign Function Interface (FFI) in Python
+How to use Foreign Function Interface (FFI) in Python.
+
+Please refer to [my blog](https://yasakura.me/post/foreign-function-interface-python/).
 
 `gcc -shared -o libmyutils.so libmyutils.c;./myutils.py`
 
