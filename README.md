@@ -1,4 +1,4 @@
-# ffi-python
+# How to use ffi in Python
 How to use Foreign Function Interface (FFI) in Python
 
 `gcc -shared -o libmyutils.so libmyutils.c;./myutils.py`
